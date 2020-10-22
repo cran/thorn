@@ -1,0 +1,13 @@
+ca21baee3090e8767874095c62b5b6ba *DESCRIPTION
+e9539c5086de0048143b449a8fac7948 *LICENSE.note
+c2b84ee1419702819b5aa99119e2c551 *NAMESPACE
+33c4bc4a8905d6022ea67fa3198e1cd7 *NEWS.md
+047b0bc331c5236e741b8932de17099f *R/thorn.R
+e0ea368636382f264b6809e69e686272 *README.md
+70e1664250554ab938233131901fdf11 *inst/htmlwidgets/lib/hamster.min.js
+b08b37df9f1d063676c561a6630e0827 *inst/htmlwidgets/lib/pixi.min.js
+91f4c2061d9f02ceff1160950a11cef7 *inst/htmlwidgets/lib/thorn.css
+7f68bd513e8ebf17f2058f28411552fe *inst/htmlwidgets/thorn.js
+5f8bef08688e2302aeed93f698977b69 *inst/htmlwidgets/thorn.yaml
+dbcacdd8be26c65aa48c782c3890e983 *man/thorn-shiny.Rd
+9b0c69c14091305b674f9250be387440 *man/thorn.Rd
