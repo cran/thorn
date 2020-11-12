@@ -1,7 +1,7 @@
 Package: thorn
 Type: Package
 Title: 'HTMLwidgets' Displaying Some 'WebGL' Shaders
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c(
     person(
       "Stéphane", "Laurent", role = c("aut", "cre"), 
@@ -26,11 +26,11 @@ URL: https://github.com/stla/thorn
 BugReports: https://github.com/stla/thorn/issues
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2020-10-13 20:15:49 UTC; stla
+Packaged: 2020-11-12 19:00:28 UTC; stla
 Author: Stéphane Laurent [aut, cre],
   Scott Boyle [ctb, cph] ('Hamster.js' library),
   Mathew Groves [ctb, cph] ('PixiJS' library),
   Chad Engler [ctb, cph] ('PixiJS' library)
 Maintainer: Stéphane Laurent <laurent_step@outlook.fr>
 Repository: CRAN
-Date/Publication: 2020-10-22 09:30:02 UTC
+Date/Publication: 2020-11-12 19:30:02 UTC
